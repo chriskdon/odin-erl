@@ -1,3 +1,9 @@
+# **** IDEs/Editors
+
+.vscode
+
+# **** Erlang ****
+
 .eunit
 *.o
 *.beam
@@ -15,3 +21,13 @@ deps
 .rebar3
 _build/
 _checkouts/
+
+# **** Odin ****
+
+# We may want to allow this eventually. Currently contains hardcoded paths and
+# thus isn't portable.
+ols.json
+
+# **** Build Artifacts
+
+_build
