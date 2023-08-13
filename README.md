@@ -176,23 +176,27 @@ Odin bindings to native Erlang libraries: `erl_nif`, `erl_driver`, `erl_interfac
 
 ## TODO
 
-- [X] Create bindings for functions and types in `erl_nif`
-  - [X] Functions
-  - [X] Types
-- [~] Create bindings for functions and types in `erl_driver`
+- :construction: Create bindings for functions and types in `erl_nif`
+  - :construction: Functions
+  - :construction: Types
+- :construction: Create bindings for functions and types in `erl_driver`
   - [ ] Functions
-  - [~] Types
+  - :construction: Types
 - [ ] Create bindings for functions and types in `erl_interface`
   - [ ] Functions
   - [ ] Types
-- [ ] Setup test framework
+- :construction: Setup test framework
 - [ ] Write tests for all `erl_nif` functions
 - [ ] Write tests for all `erl_driver` functions
 - [ ] Write tests for all `erl_interface` functions
 - [ ] Create Odin allocator that uses the Erlang allocator
 - [ ] Add support for rebar3
-- [ ] Create helper library that wraps the low level functions with a higher-level
+- :construction: Create helper library that wraps the low level functions with a higher-level
       interface.
+
+:white_check_mark: - Complete
+
+:construction: - Being worked on
 
 See the [open issues](https://github.com/chriskdon/odin-erl/issues)
 for a full list of proposed features (and known issues).
