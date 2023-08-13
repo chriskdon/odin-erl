@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 # odin-erl
 
-*Version:* `v0.0.0-alpha` (DO NOT USE)
+*Version:* `v0.0.0-alpha` (DO NOT USE :warning:)
 
 <!-- PROJECT SHIELDS -->
 
